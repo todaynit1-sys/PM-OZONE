@@ -1,0 +1,5 @@
+{
+  "name": "PM2.5 오존 기반 우선관리 산업단지 분석 시스템_81개 산단_HJ3",
+  "description": "An application to analyze PM2.5 data from CSV files and rank industrial complexes to identify priority management areas.",
+  "requestFramePermissions": []
+}
